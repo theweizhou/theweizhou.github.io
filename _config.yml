@@ -22,14 +22,13 @@ repository               : "theweizhou/theweizhou.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Zhou-LaJolla.jpg"
+  name             : "Wei Zhou"
+  pronouns         : "she/her"  
+  bio              : "PhD Student in Sociology, University of Chicago"
+  location         : "Chicago, IL"
+  uri              : "https://theweizhou.github.io"
+  email            : "zhou2@uchicago.edu" 
 
   # Academic websites
   academia         : # URL
