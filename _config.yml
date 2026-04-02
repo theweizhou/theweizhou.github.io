@@ -7,28 +7,28 @@
 # server process.
 
 # Basic Site Settings
-locale                  : "en-US"
-site_theme               : "default" 
-title                    : "Wei Zhou | University of Chicago"
-title_separator          : "-"
-name                     : &name "Wei Zhou"
-description              : &description "PhD Student in Sociology at the University of Chicago researching historical, political, and economic sociology & STS."
-url                      : "https://theweizhou.github.io" # Change this to "https://wei-zhou.org" once your domain is linked
-baseurl                  : "" 
-repository               : "theweizhou/theweizhou.github.io
+locale: "en-US"
+site_theme: "default"
+title: "Wei Zhou | University of Chicago"
+title_separator: "-"
+name: "Wei Zhou"
+description: "PhD Student in Sociology at the University of Chicago"
+url: "https://theweizhou.github.io"
+baseurl: ""
+repository: "theweizhou/theweizhou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "Zhou-LaJolla.jpg"
-  name             : "Wei Zhou"
-  pronouns         : "she/her"  
-  bio              : "PhD Student in Sociology, University of Chicago"
-  location         : "Chicago, IL"
-  uri              : "https://theweizhou.github.io"
-  email            : "zhou2@uchicago.edu" 
+  avatar: "profile.png"
+  name: "Wei Zhou"
+  bio: "PhD Student in Sociology, University of Chicago."
+  location: "Chicago, IL"
+  employer: "University of Chicago"
+  uri: "https://theweizhou.github.io"
+  email: "zhou2@uchicago.edu"
+  github: "theweizhou"
 
   # Academic websites
   academia         : # URL
