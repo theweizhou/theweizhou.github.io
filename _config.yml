@@ -26,9 +26,9 @@ author:
   bio: "PhD Student in Sociology, University of Chicago."
   location: "Chicago, IL"
   employer: "University of Chicago"
-  uri: "https://theweizhou.github.io"
+  url: "https://theweizhou.github.io"
   email: "zhou2@uchicago.edu"
-  github: "theweizhou"
+  # github: "theweizhou"
 
   # Academic websites
   # academia         : # URL
