@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Maverick Markets"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/maverick-markets
+venue: "University of Chicago, Department of Sociology"
+date: 2026
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for Maverick Markets, taught by Dr. Karin Knorr-Cetina. Responsibilities included independently lecturing, leading discussion sessions, grading, and holding office hours for 20+ UG Economics students. 
