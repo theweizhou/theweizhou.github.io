@@ -9,10 +9,10 @@ author_profile: true
 **Teaching Assistant** — University of Chicago, Department of Sociology
 Taught by Professor Andreas Glaeser
 
-Responsibilities included leading review sections, grading, and coordinating exam logistics.
+Responsibilities included lecturing, leading review sections, grading, and coordinating exam logistics.
 
 ## Maverick Markets
 **Teaching Assistant** — University of Chicago, Department of Sociology
 Taught by Professor Karin Knorr-Cetina
 
-Responsibilities included leading review sections and grading.
+Responsibilities included lecturing, leading review sections, grading, and coordinating exam logistics. Independently led and lectured 20+ UG Economics students weekly.
